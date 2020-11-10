@@ -1,0 +1,6 @@
+Flask==1.0.2
+requests==2.19.1
+Flask_Cors==3.0.7
+flask_socketio==3.3.2
+flask-restplus==0.13.0
+Werkzeug==0.16.0
